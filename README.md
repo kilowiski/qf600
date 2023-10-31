@@ -5,5 +5,7 @@ My personal QF600 repository
 * assignment_3 : Linear Factor Models
 * assignment_4 : Efficient Frontier Revisited
 * assignment_5 : Stochastic Discount Factor
+* assignment_6 : Behavioural Finance
+
 
 
